@@ -1,0 +1,1 @@
+[{"title":"lapiz","price":10,"thumbnail":"lapiz.jpg","id":1},{"title":"lapiz","price":10,"thumbnail":"lapiz.jpg","id":2},{"title":"libro","price":80,"thumbnail":"libro.jpg","id":3},{"title":"libro","price":80,"thumbnail":"libro.jpg","id":4},{"title":"libro","price":80,"thumbnail":"libro.jpg","id":5},{"title":"libro","price":80,"thumbnail":"libro.jpg","id":6}]
